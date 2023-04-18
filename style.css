@@ -1,0 +1,47 @@
+body{
+  font-family: 'Kaushan Script', cursive;
+font-family: 'Work Sans', sans-serif;
+background-image: linear-gradient( #ffffff,rgb(255, 255, 255), rgb(152, 222, 254));
+  
+}
+#nna{
+  
+  height: 15rem;
+}
+#dami{
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-weight: 900;
+  @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Sedgwick+Ave+Display&family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+}
+#intro{
+  margin-bottom: 80px;
+}
+#ima{
+  margin-top: 40px;
+  border-radius: 50%;
+}
+#about{
+  height: 300px;
+  padding-bottom: 200px;
+}
+#about2{
+  padding-top: 30px;
+
+}
+
+#kok{
+  height: 30rem;
+  
+}
+#footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: -50px;
+}
+#foot2{
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+#EE4540   #C72C41   #801336   #510A32   #2D142C
+
